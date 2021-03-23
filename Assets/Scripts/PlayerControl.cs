@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    private float speed = 2.5f;
+    private float speed = 1;
 
     // Update is called once per frame
     void Update()
